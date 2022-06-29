@@ -1,0 +1,17 @@
+body div{
+  background-color: aqua;
+}
+input{
+  background-color: black;
+  color: white;
+}
+input:hover{
+  background-color: rgb(165, 42, 138);
+}
+input:focus{
+  background-color: rgb(226, 70, 43);
+}
+input::placeholder{
+  color:gray;
+}
+
